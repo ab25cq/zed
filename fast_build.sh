@@ -1,1 +1,2 @@
-./configure && make clean && make && sudo make uninstall && sudo make install && make test
+comelang compile
+sudo comelang install
